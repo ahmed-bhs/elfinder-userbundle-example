@@ -1,0 +1,8 @@
+main:
+    resource: "@AppBundle/Resources/config/routing.yml"
+
+elfinder:
+     resource: "@FMElfinderBundle/Resources/config/routing.yml"
+
+fos_user:
+    resource: "@FOSUserBundle/Resources/config/routing/all.xml"
